@@ -1,0 +1,166 @@
+{
+  "tavtabs": {
+    "body": "Corpo",
+    "sports": "Esportes",
+    "coaches": "Treinadores",
+    "podcasts": "Podcasts",
+    "tutorials": "Tutoriais",
+    "store": "Loja"
+  },
+  "btns": {
+    "bodyscan": "Exame Corporal",
+    "share": "Compartilhar",
+    "save": "Salvar",
+    "create": "Criar",
+    "cancel": "Cancelar",
+    "posts": "Postagens",
+    "reviews": "Avaliações",
+    "favorites": "Favoritos",
+    "calls": "Chamadas",
+    "messages": "Mensagens",
+    "settings": "Configurações",
+    "support": "Suporte",
+    "register": "Registrar",
+    "logout": "Sair",
+    "loadmore": "Carregar mais",
+    "submit": "Enviar",
+    "search": "Pesquisar",
+    "login": "Entrar",
+    "signup": "Registrar-se",
+    "resetpassword": "Redefinir Senha",
+    "buynow": "Compre Agora",
+    "submitrequest": "Enviar Solicitação",
+    "continue": "Continuar",
+    "paynow": "Pagar Agora",
+    "editdetails": "Editar Detalhes",
+    "download": "Baixar"
+  },
+  "home": {
+    "hero": {
+      "text": "Visualize seu novo corpo com precisão! Especifique quais partes você deseja melhorar, modelar e dimensionar."
+    }
+  },
+  "aboutus": {
+    "heading": "Contato",
+    "us": "Conosco",
+    "disc": "Estamos aqui para ajudar. Entre em contato com qualquer dúvida ou feedback e responderemos prontamente!",
+    "getintouch": "Entre em Contato",
+    "disc2": "Precisa entrar em contato conosco? Estamos ansiosos para ajudá-lo. Fique à vontade para nos ligar ou usar o formulário de contato.",
+    "address": "Endereço",
+    "disc3": "Entre em contato com suas dúvidas e responderemos rapidamente!",
+    "name": "Nome",
+    "email": "E-mail",
+    "company": "Empresa",
+    "describe": "Descreva"
+  },
+  "coaches": {
+    "searchforworkout": "Pesquisar treino",
+    "disc": "treinador, disciplina esportiva, método de treino, tipo de exercício, nível de habilidade.",
+    "trainingtypes:": "Tipos de Treinamento:",
+    "language": "Idioma",
+    "socialmedia": "Mídia Social:",
+    "coachemodals": {
+      "typeofcontent": "Tipo de conteúdo",
+      "coach": "Treinador",
+      "productservices": "Produto / serviço",
+      "textareadisc": "Escreva uma pequena descrição sobre sua disciplina esportiva, método de treino, tipo de exercício, nível de habilidade.",
+      "draganddrop": "Arraste e solte ou",
+      "browse": "navegue",
+      "inputtitle": "Título",
+      "enterdescription": "Insira a Descrição",
+      "addwebsitelink": "Adicione o link do seu site",
+      "instagram": "Instagram",
+      "facebook": "Facebook",
+      "youTube": "YouTube",
+      "alreadyaccount": "Já tem uma conta?",
+      "coachlogin": "Login de Treinador",
+      "logindisc": "Acesse seu painel para gerenciar treinos e acompanhar o progresso.",
+      "enteryourpassword": "Digite sua Senha",
+      "forgotpassword": "Esqueceu a Senha",
+      "donthaveaccount": "Não tem uma conta?",
+      "forgotpassworddisc": "Por favor, insira seu e-mail para redefinir a senha"
+    }
+  },
+  "plan": {
+    "disc": "É hora de criar seu plano de treino. Seja o mais específico possível — considere sua disciplina esportiva, método de treino, tipo de exercício, nível de habilidade, treinos de corpo inteiro ou foco em grupos musculares específicos."
+  },
+  "store": {
+    "brand": "Marca",
+    "price": "Preço",
+    "discountedprice": "Preço com Desconto",
+    "uploadstore": {
+      "upload": "Carregar",
+      "disc": "Adicione seus documentos aqui, e você pode carregar até 5 arquivos no máximo",
+      "uploading": "Carregando...",
+      "maximumsize": "Tamanho Máximo",
+      "bgcolor": "Fundo branco ou transparente",
+      "companyname": "Digite o nome da sua empresa",
+      "enteryourphone": "Digite seu telefone",
+      "enteryourwebsite": "Digite seu site",
+      "fiscalnumber": "Digite seu número fiscal"
+    },
+    "registermodal": {
+      "uplaodproject": "Carregar imagem de produto, serviço ou evento",
+      "disc": "Escreva uma pequena descrição sobre seu produto ou serviço, como tipo de produto/serviço, categorias esportivas relevantes e países disponíveis para envio.",
+      "brandname": "Nome da Marca",
+      "Websitelink": "Link do site"
+    },
+    "loginmodal": {
+      "supplierlogin": "Login de Fornecedor",
+      "disc": "Acesse seu painel para gerenciar os treinos e acompanhar o progresso."
+    },
+    "supplierplan": {
+      "supplierplan": "Plano de Fornecedor",
+      "disc": "Não perca, aproveite nosso desconto exclusivo antes do lançamento oficial!",
+      "premiumsupplierplan": "Plano Premium de Fornecedor",
+      "originalprice": "Preço Original",
+      "prelaunchdiscount": "Desconto Pré-Lançamento",
+      "finalprice": "Preço Final"
+    }
+  },
+  "reviewsform": {
+    "addratingreviews": "Adicionar Avaliação & Comentário",
+    "whatyouthink": "Conte-nos o que você acha",
+    "addrating": "Toque para adicionar sua avaliação",
+    "addreview": "Adicione sua avaliação"
+  },
+  "createmodal": {
+    "disc": "Por favor, descreva com o máximo de detalhes possível o que você pretende criar, atualizar ou modificar.",
+    "verifydisc": "A IA está analisando sua documentação"
+  },
+  "usermodals": {
+    "username": "Nome de usuário",
+    "emailaddress": "Endereço de email",
+    "createpassword": "Criar senha",
+    "confirmpassword": "Confirmar senha",
+     "uploadyourprofile": "Carregar seu perfil"
+  },
+  "supportmodal": {
+    "title": "Criar Ticket de Suporte",
+    "disc": "Por favor, descreva com o máximo de detalhes possível o que você pretende criar, atualizar ou modificar.",
+    "enteryourname": "Digite seu nome",
+    "enteryouremail": "Digite seu e-mail"
+  },
+  "favoritesmodal": {
+    "title": "Favoritos",
+    "disc": "Por favor, descreva com o máximo de detalhes possível o que você pretende criar, atualizar ou modificar.",
+    "type": "Tipo"
+  },
+  "modifymodals": {
+    "modify": "Modificar",
+    "dsic": "Você gostaria de prosseguir com a modificação do seu projeto?",
+    "textareaplaceholder": "Tipo de Construção",
+    "modifyproject": "Modificar o Projeto?",
+    "verifydisc": "O Architectus Ai está analisando sua documentação"
+  },
+  "captchamodal": {
+    "title": "Captcha",
+    "imnotroboto": "Eu não sou um robô",
+    "recaptcha": "reCAPTCHA",
+    "privacy": "Privacidade",
+    "terms": "Termos"
+  },
+  "footer": {
+    "footertext": "© Soluções Inovadoras de IA para o Desenvolvimento Urbano. 2024"
+  }
+}

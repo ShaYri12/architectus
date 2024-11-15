@@ -1,0 +1,166 @@
+{
+  "tavtabs": {
+    "body": "Body",
+    "sports": "Sports",
+    "coaches": "Coaches",
+    "podcasts": "Podcasts",
+    "tutorials": "Tutorials",
+    "store": "Store"
+  },
+  "btns": {
+    "bodyscan": "Body Scan",
+    "share": "Share",
+    "save": "Save",
+    "create": "Create",
+    "cancel": "Cancel",
+    "posts": "Posts",
+    "reviews": "Reviews",
+    "favorites": "Favorites",
+    "calls": "Calls",
+    "messages": "Messages",
+    "settings": "Settings",
+    "support": "Support",
+    "register": "Register",
+    "logout": "Log Out",
+    "loadmore": "Load more",
+    "submit": "Submit",
+    "search": "Search",
+    "login": "Login",
+    "signup": "Sign Up",
+    "resetpassword": "Reset Password",
+    "buynow": "Buy Now",
+    "submitrequest": "Submit Request",
+    "continue": "Continue",
+    "paynow": "Pay Now",
+    "editdetails": "Edit Details",
+    "download": "Download"
+  },
+  "home": {
+    "hero": {
+      "text": "Envision your new body with precision! Specify which parts you want to improve, shape, and size."
+    }
+  },
+  "aboutus": {
+    "heading": "Contact",
+    "us": "Us",
+    "disc": "We're here to help reach out with any questions or feedback and we'll respond promptly!",
+    "getintouch": "Get In Touch",
+    "disc2": "Need to contact us? We look forward to assisting you. Feel free to give us a call or use the contact form.",
+    "address": "Address",
+    "disc3": "Reach out with questions and we'll respond quickly!",
+    "name": "Name",
+    "email": "Email",
+    "company": "Company",
+    "describe": "Describe"
+  },
+  "coaches": {
+    "searchforworkout": "Search for workout",
+    "disc": "coach, sport discipline, training method, exercise type, skill level.",
+    "typeees:": "Training Types:",
+    "language": "Language",
+    "socialmedia": "Social Media:",
+    "coachemodals": {
+      "typeofcontent": "Type of content",
+      "coach": "Coach",
+      "productservices": "Product /service",
+      "textareadisc": "Write a small description about your sport discipline, training method, exercise type, skill level.",
+      "draganddrop": "Drag and drop or",
+      "browse": "browse",
+      "inputtitle": "Title",
+      "enterdescription": "Enter Description",
+      "addwebsitelink": "Add your website link",
+      "instagram": "Instagram",
+      "facebook": "Facebook",
+      "youTube": "YouTube",
+      "alreadyaccount": "Already have an account?",
+      "coachlogin": "Coach Login",
+      "logindisc": "Access your dashboard to manage workouts and track progress.",
+      "enteryourpassword": "Enter Your Password",
+      "forgotpassword": "Forgot Password",
+      "donthaveaccount": "Don't have account?",
+      "forgotpassworddisc": "Please enter your email to reset the password"
+    }
+  },
+  "plan": {
+    "disc": "It's time to create your workout plan. Be as specific as possible — consider your sport discipline, training method, exercise type, skill level, full-body workouts, or focus on specific muscle groups."
+  },
+  "store": {
+    "brand": "Brand",
+    "price": "Price",
+    "discountedprice": "Discounted Price",
+    "uploadstore": {
+      "upload": "Upload",
+      "disc": "Add your documents here, and you can upload up to 5 files max",
+      "uploading": "Uploading...",
+      "maximumsize": "Maximum Size",
+      "bgcolor": "White or transparent background",
+      "companyname": "Enter Your Company Name",
+      "enteryourphone": "Enter Your Phone",
+      "enteryourwebsite": "Enter Your Website",
+      "fiscalnumber": "Enter Your Fiscal Number"
+    },
+    "registermodal": {
+      "uplaodproject": "Upload Product, service or event image",
+      "disc": "Write a small description about your product or service such as product/service type, relevant sports categories, and available shipping countries.",
+      "brandname": "Brand Name",
+      "Websitelink": "Website link"
+    },
+    "loginmodal": {
+      "supplierlogin": "Supplier Login",
+      "disc": "Access your dashboard to manage workouts and track progress."
+    },
+    "supplierplan": {
+      "supplierplan": "Supplier Plan",
+      "disc": "Don't miss out grab our exclusive discount before the official launch!",
+      "premiumsupplierplan": "Premium Supplier Plan",
+      "originalprice": "Original Price",
+      "prelaunchdiscount": "Pre Launch Discount",
+      "finalprice": "Final Price"
+    }
+  },
+  "reviewsform": {
+    "addratingreviews": "Add Rating & Review",
+    "whatyouthink": "Tell Us What You Think",
+    "addrating": "Tap to add your rating",
+    "addreview": "Add your review"
+  },
+  "createmodal": {
+    "disc": "Please describe in as much detail as possible what you intend to create, update, or modify.",
+    "verifydisc": "AI is analyzing your documentation"
+  },
+  "usermodals": {
+    "username": "Username",
+    "emailaddress": "Email address",
+    "createpassword": "Create password",
+    "confirmpassword": "Confirm Password",
+    "uploadyourprofile": "Upload your profile"
+  },
+  "supportmodal": {
+    "title": "Create Support Ticket",
+    "disc": "Please describe in as much detail as possible what you intend to create, update, or modify.",
+    "enteryourname": "Enter Your Name",
+    "enteryouremail": "Enter Your Email"
+  },
+  "favoritesmodal": {
+    "title": "Favorites",
+    "disc": "Please describe in as much detail as possible what you intend to create, update, or modify.",
+    "type": "Type"
+  },
+  "modifymodals": {
+    "modify": "Modify",
+    "dsic": "Would you like to proceed with the modification to your project?",
+    "textareaplaceholder": "Type of Construction",
+    "modifyproject": "Modify Project?",
+    "verifydisc": "Architectus Ai is analyzing your documentation"
+  },
+  "captchamodal": {
+    "title": "Captcha",
+    "imnotroboto": "I'M Not a Robot",
+    "recaptcha": "reCAPTCHA",
+    "privacy": "Privacy",
+    "terms": "Terms"
+  },
+  "footer": {
+    "footertext": "© Innovative AI Solutions for Urban Development. 2024"
+  }
+}
