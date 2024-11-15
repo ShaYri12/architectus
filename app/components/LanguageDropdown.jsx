@@ -6,11 +6,7 @@ import Image from "next/image";
 
 const languages = [
   { code: "en", name: "English", flag: "/assets/english-language-flag.svg" },
-  {
-    code: "pt-BR",
-    name: "Brazilian",
-    flag: "/assets/brazil-flag.svg",
-  },
+  { code: "pt-BR", name: "Brazilian", flag: "/assets/brazil-flag.svg" },
   { code: "ru", name: "Russian", flag: "/assets/russian-flag.svg" },
 ];
 
@@ -24,7 +20,14 @@ const LanguageDropdown = () => {
 
   useEffect(() => {
     const langFromPath = pathname.split("/")[1];
-    const matchedLang = languages.find((lang) => lang.code === langFromPath);
+
+    // Match "pt" or "pt-BR" with the "pt-BR" language code
+    const matchedLang = languages.find(
+      (lang) =>
+        lang.code === langFromPath ||
+        (langFromPath === "pt" && lang.code === "pt-BR")
+    );
+
     if (matchedLang) {
       setCurrentLang(matchedLang);
     }
@@ -75,7 +78,9 @@ const LanguageDropdown = () => {
               key={lang.code}
               onClick={() => handleLanguageChange(lang)}
               className={`flex w-full items-center gap-2.5 p-3 cursor-pointer ${
-                currentLang.code === lang.code ? "font-semibold" : "hover:bg-gray-100"
+                currentLang.code === lang.code
+                  ? "font-semibold"
+                  : "hover:bg-gray-100"
               }`}
             >
               <Image
@@ -112,4 +117,3 @@ const LanguageDropdown = () => {
 };
 
 export default LanguageDropdown;
-
