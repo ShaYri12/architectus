@@ -19,8 +19,10 @@ i18n
     },
 
     backend: {
-      // Corrected to fetch from nested folder structure
       loadPath: "/locales/{{lng}}.json",
+      addPath: "/locales/{{lng}}.json",
+      // Add this fallback option
+      parse: (data, { lng }) => (lng === "pt-BR" ? JSON.parse(data) : null),
     },
 
     detection: {
